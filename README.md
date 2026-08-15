@@ -52,7 +52,7 @@ git clone https://github.com/Nanashi0007/AuroraStay
 Go into the project:
 
 ```bash
-cd aurorastay1
+cd AuroraStay
 ```
 
 ---
@@ -94,7 +94,7 @@ Ctrl + Shift + `
 Go to the project folder:
 
 ```bash
-cd aurorastay
+cd AuroraStay
 ```
 
 Then go to the server folder:
@@ -190,8 +190,8 @@ If all required software is already installed:
 ### Terminal 1
 
 ```bash
-git clone https://github.com/Nanashi0007/aurorastay1
-cd aurorastay1
+git clone https://github.com/Nanashi0007/AuroraStay
+cd AuroraStay
 cd client
 ```
 
@@ -201,10 +201,9 @@ Create `client/.env`, add the required credentials, then:
 npm install
 ```
 
-### Terminal 2
-
-```bash
-cd aurorastay1
+###
+```
+cd AuroraStay
 cd server
 ```
 
