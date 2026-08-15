@@ -46,7 +46,7 @@ Ctrl + `
 Then run:
 
 ```bash
-git clone https://github.com/Nanashi0007/aurorastay1
+git clone https://github.com/Nanashi0007/AuroraStay
 ```
 
 Go into the project:
