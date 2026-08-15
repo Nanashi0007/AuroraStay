@@ -4,11 +4,11 @@
 
 Before running AuroraStay, install the following:
 
-* **Git**
-* **Node.js**
-* **PostgreSQL 18**
-* **pgAdmin 4**
-* **Visual Studio Code (VS Code)**
+* **[Git](https://git-scm.com/downloads)**
+* **[Node.js](https://nodejs.org/en/download)**
+* **[PostgreSQL 18](https://www.postgresql.org/download/)**
+* **[pgAdmin 4](https://www.pgadmin.org/download/)**
+* **[Visual Studio Code (VS Code)](https://code.visualstudio.com/download)**
 
 ---
 
