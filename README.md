@@ -166,7 +166,7 @@ When running AuroraStay, you should have **two terminals** open:
 ### Terminal 1 — Server
 
 ```bash
-cd aurorastay
+cd AuroraStay
 cd server
 node server.js
 ```
@@ -174,7 +174,7 @@ node server.js
 ### Terminal 2 — Client
 
 ```bash
-cd aurorastay
+cd AuroraStay
 cd client
 npm run dev
 ```
